@@ -1,0 +1,41 @@
+-A citizen of min age is have to provide all the identity proof for applying license bring an RTO all the identification proofs are verified.
+As a TRAVELER USING THE TRANSPORTATION SYSTEM:
+
+To help accelerate de-carbonization, I need to know …
+…how much carbon a travel option (or a delivery) will generate or save.
+To advance equity, I need to know…
+…that I am not being discriminated against because of my age, race, gender identity, sexual orientation, disability, ethnicity, nationality, or religion; and,
+…that the information is available to me in ways that don’t require a personal smartphone or an internet account.
+To protect my privacy, I need to know…
+…that my private information, my travel patterns and my location data will not be used for profit or resold without my express consent; and,
+…that the data or information I generate or is generated about me is not used for surveillance purposes without legal authorization.
+To ensure a level playing field, I need to know…
+…all the transportation options and services available to me at each stage of the journey; and,
+…the comparative costs (in $) of the travel option or delivery service I am using or will use.
+On location and navigation information
+As a TRAVELER USING THE TRANSPORTATION SYSTEM, I need to know …
+
+…the best or recommended route to my destination (this includes the conditions of the physical infrastructure along the route);
+…the exact location of transportation options (stations, parking locations, etc.) relative to my location;
+…how to connect to another travel mode if I need to; and,
+…the locations of parking spaces, load zones, boarding and hailing zones, stations, and where to wait for a vehicle.
+On notification and status information
+I need to know …
+
+…the current state of sidewalks, roads, routes, and schedules (this should include current traffic, wait times and passenger volumes and this information must be accurate and dependable);
+…if there are sidewalk and road closures, changes in schedules or routes that will affect my trip;
+…how many parking slots are available (car, bike or scooter, etc.); and,
+…If there are areas or routes where the mode or vehicle I am taking is prioritized or is not allowed.
+On reporting and safety information
+I need to know …
+
+…who is operating the vehicle (if it’s not me) and that I can trust them, and if it is run by a human or by AI;
+…how to (and be able to) report conditions that affect my trip; and,
+…how to (and be able to) request for help for emergencies.
+On payment information
+I need to know …
+
+…how to pay for my trip if there are any fees, fares or tolls required (and how I will be refunded for failures in service);
+…if there are incentives or restrictions; and,
+…that there are other ways to pay for fares or fees if I don’t have a credit card, a smartphone or internet access.
+
